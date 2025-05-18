@@ -1,5 +1,3 @@
-# blog_post_1_smote
-
 # Visualizing SMOTE: Understanding Synthetic Oversampling with Intuition and Code
 This repository accompanies a blog post on SMOTE (Synthetic Minority Over-sampling Technique), a popular method for handling class imbalance in machine learning.
 
