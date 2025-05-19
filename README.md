@@ -11,5 +11,4 @@ Organized code that separates logic, plotting, and analysis for clarity
 
 Jupyter Notebooks to explore the technique interactively
 
-Blog post: [Insert blog post link here]
-To get started: open notebooks/SMOTE_visualizations.ipynb
+Blog post: https://www.linkedin.com/feed/update/urn:li:ugcPost:7329981956757123072
